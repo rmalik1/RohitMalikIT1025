@@ -1,6 +1,6 @@
 #### Executive Summary
 The purpose of Lab1 is to explore the different components and eras of computing history and sheds light on several interesting developments. One notable progress was the development of client server architecture in the min-1980s that led to the development of the Enterprise Resource Planning systems. Additionally, this Lab prepares provides functional knowledge for GitHub.
-####Information System Components: The five components of an information system are:
+#### Information System Components: The five components of an information system are:
 •	Hardware: Tangible, physical portion of an information system like computers, disk drives, etc.
 •	Software: Sets of instructions that tell the hardware what to do. Examples include Microsoft Windows, Apple iOS, etc.
 •	Data: Address of a person, phone number of a person
