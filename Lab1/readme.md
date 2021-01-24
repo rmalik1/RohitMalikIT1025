@@ -7,7 +7,7 @@ The purpose of Lab1 is to explore the different components and eras of computing
 •	People: Developers, CIO, etc.
 •	Process: SQL
 #### GitHub: It is an industry tool that serve as a hosting platform for software development
-Client- Server Architecture: Computer network in which several computers request and receive service from a centralized database/computer. GitHub is an example of Client-Server architecture as under this platform several users request information from a centralized server to develop software.
-Cloud Computing: Cloud computing provides users with mobile access to data and applications. Examples include Google Cloud Platform and Microsoft 365
++ Client- Server Architecture: Computer network in which several computers request and receive service from a centralized database/computer. GitHub is an example of Client-Server architecture as under this platform several users request information from a centralized server to develop software.
++ Cloud Computing: Cloud computing provides users with mobile access to data and applications. Examples include Google Cloud Platform and Microsoft 365
 #### Conclusion
 Through the course of this lab I learned about GitHub and several developments in the field of Information Systems. I had to face a lot of difficulty with adding a file to the repository. I revisited the process multiple times and was finally successful. I look forward to spending more time on GitHub and get more familiar with creating a new pull request and forking a repository
