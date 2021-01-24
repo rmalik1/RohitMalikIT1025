@@ -5,7 +5,7 @@ The purpose of Lab1 is to explore the different components and eras of computing
 + Software: Sets of instructions that tell the hardware what to do. Examples include Microsoft Windows, Apple iOS, etc.
 +	Data: Address of a person, phone number of a person
 +	People: Developers, CIO, etc.
-+ rocess: SQL
++ Process: SQL
 #### GitHub: It is an industry tool that serve as a hosting platform for software development
 Cient- Server Architecture: Computer network in which several computers request and receive service from a centralized database/computer. GitHub is an example of Client-Server architecture as under this platform several users request information from a centralized server to develop software.
 Cloud Computing: Cloud computing provides users with mobile access to data and applications. Examples include Google Cloud Platform and Microsoft 365
